@@ -266,6 +266,34 @@ else
 //     // }
 // }
 
+//.......................................................
+#include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+// 	vector<int>v={1,2,3,4,5,6,7};
+// 	vector<int >::iterator it;
+//     for(it=v.begin();it!=v.end();it++)
+//     {
+//         if(*it==4)
+//         {
+//             *it=10;
+//         }
+//     }
+
+//     // for(it=v.begin();it!=v.end();it++)
+//     // {
+//     //     if(*it==5)
+//     //     {
+//     //         v.erase(it);
+//     //     }
+//     // }
+//     for(it=v.begin();it!=v.end();it++)
+//     {
+//         cout<<*it<<" ";
+//     }
+// }
+
 //...........................................................
 
 //how to take input from user in vector in c++

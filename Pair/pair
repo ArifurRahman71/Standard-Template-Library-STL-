@@ -1,1 +1,90 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+                 // 1.Deceration............
+     //................................................
 
+    // pair<int,int >p;
+    // p.first=10;
+    // p.second=20;
+    // cout<<p.first<<" "<<p.second<<endl;
+
+    // pair<int,string  >p;
+    // p.first=10;
+    // p.second="Arifur Rahman";
+    // cout<<p.first<<" "<<p.second<<endl;
+
+
+    //  pair<int,char >p={10,'a'};
+    // cout<<p.first<<" "<<p.second<<endl;
+
+    // pair<int,char >p(20,'b');
+    // cout<<p.first<<" "<<p.second<<endl;
+
+
+    // pair<int ,int >p;
+    // pair<int, int >p2;
+    // p2=make_pair(10,20);
+    // p=make_pair(20,30);
+    // cout<<p2.first<<" "<<p2.second<<endl;
+    //  cout<<p.first<<" "<<p.second<<endl;
+
+    //    pair<int,int>p,p1;
+    //    p.first=10;
+    //    p.second=20;
+    //    p1=p;
+    //    cout<<p1.first<<" "<<p1.second<<endl;
+
+    // pair<int,int >p(10,20);
+    // pair<int,int >p2(p);
+    // cout<<p2.first<<" "<<p2.second<<endl;
+
+
+//swap().........
+
+    //  pair<int,int >p,p1;
+    // p.first=10;
+    // p.second=20;
+    // p1.first=30;
+    // p1.second=40;
+    // p.swap(p1);
+
+    // cout<<p.first<<" "<<p.second<<endl;
+    
+//3.'=='
+// pair<int,int >p(20,20);
+// pair<int,int >p1(30,40);
+// if(p==p1)
+// cout<<"Yes";
+// else
+// cout<<" no"<<endl;
+
+//4.'!='......
+
+// pair<int,int >p(20,20);
+// pair<int,int >p1(30,40);
+// if(p!=p1)
+// cout<<"Yes";
+// else
+// cout<<" no"<<endl;
+
+//5.'>='...........
+
+// pair<int,int >p(30,20);
+// pair<int,int >p1(20,40);
+// if(p>=p1)
+// cout<<"Yes";
+// else
+// cout<<" no"<<endl;
+
+//6.'<='.........
+
+// pair<int,int >p(30,20);
+// pair<int,int >p1(20,40);
+// if(p<=p1)
+// cout<<"Yes";
+// else
+// cout<<" no"<<endl;
+
+}
